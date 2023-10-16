@@ -6,7 +6,9 @@
   
 ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/bootstrap.png)
 
--
+- npm i pg
+
+  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/pg.png)
 -
 
 
