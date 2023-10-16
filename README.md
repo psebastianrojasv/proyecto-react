@@ -2,7 +2,8 @@
 
 ##Powershell:
 
-- npm i bootstrap bootstrap
+- npm i bootstrap bootstrap.
+  
 ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/bootstrap.png)
 
 -
