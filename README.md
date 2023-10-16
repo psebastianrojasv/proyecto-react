@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Proyecto creado para la Empresa Evol Service
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Problemática:
 
-In the project directory, you can run:
+En Evol Services se necesita crear una interfaz gráfica que permita listar, crear, actualizar y eliminar datos de medidores y de nuestros clientes. Un cliente puede tener de 1 hasta 3 medidores  asignados.
 
-### `npm start`
+Considere necesario ingresar los siguientes campos o atributos para cada medidor:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+***Campos Requeridos:***
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- código: texto alfanumérico único
+- nombre: texto
+- fecha de creación: fecha
 
-### `npm test`
+***Campos Opcionales:***
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- descripción: texto con descripción del medidor
 
-### `npm run build`
+Para los datos de clientes se debe ingresar:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+***Campos Requeridos***
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- RUT: texto con formato RUT
+- nombre: texto
+- dirección : texto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Considere distribuir la arquitectura de este requerimento según estime conveniente.
+Para almacenar los datos utilice una base de datos Postgres.
+Para la interfaz es importante usar React.
+Si decide crear una API de servicios puede utilizar Nodejs o Java con Springboot.
+Deberá incluir la documentación necesaria para configuración/ejecución o scripts de la solución.
+Puede utilizar las librerías que estime necesarias para el desarrollo de la solución.
 
-### `npm run eject`
+Deberá crear un repositorio público en github con el código fuente y enviar al correo [edison.delgado@evol.energy](mailto:edison.delgado@evol.energy) con copia a [carolina.duarte@evol.energy](mailto: carolina.duarte@evol.energy) el enlace con el asunto "Prueba Técnica Evol".
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+***No requerido, pero deseable:***
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Documentación, de API e interfaz.
+- Pruebas unitarias y E2E.
+- Mobile friendly.
+- Uso de alguna librería de estilos (Bootstrap 5, Tailwind o similar).
+- Manejo de errores.
+- Modularización de componentes
