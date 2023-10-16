@@ -1,6 +1,6 @@
 # Proyecto creado para la Empresa Evol Service
 
-##Powershell:
+##Powershell
 
 - npm i pg
 
@@ -14,7 +14,7 @@
 
 - import "bootstrap/dist/css/bootstrap.min.css"; 
 
-##Conexión de BBDD ~ en el archov db.js:
+##Conexión de BBDD ~ en el archov db.js
 
 ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/db.png)
 
