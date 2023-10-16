@@ -3,7 +3,7 @@
 ##Powershell:
 
 - npm i bootstrap bootstrap
-![image]([bootstrap.png](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/bootstrap.png))
+![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/bootstrap.png)
 
 -
 -
