@@ -4,11 +4,11 @@
 
 - npm i pg
 
-  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/pg.png)
+  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/imagenes/pg.png)
 
 - npm i bootstrap bootstrap.
   
-  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/bootstrap.png)
+  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/imagenes/bootstrap.png)
 
 ***Realizar la importacion de la libreria de bootstrap, en el archivo App.js***
 
@@ -16,7 +16,7 @@
 
 ## Conexión de BBDD ~ en el archov db.js:
 
-  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/db.png)
+  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/imagenes/db.png)
 
 **Se realiza la importacion de la libreria en el archivo App.js**
 
@@ -84,7 +84,17 @@ ALTER TABLE IF EXISTS public.asociacion
 
 ## Aplicacion:
 
-  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/Aplicacion.png)
+  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/imagenes/Aplicacion.png)
+
+  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/imagenes/agregar%20nuevo%20medidor.png)
+
+  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/imagenes/editar%20medidor.png)
+  
+  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/imagenes/update%20medidor.png)
+    
+  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/imagenes/delete%20medidor.png)
+  
+  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/imagenes/update%20medidor%202.png)
 
 
 ### Problemática:
