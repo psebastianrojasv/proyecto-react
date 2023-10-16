@@ -3,7 +3,7 @@
 ##Powershell:
 
 - npm i bootstrap bootstrap
-![Admin panel login page](bootstrap.png)
+![image](bootstrap.png)
 
 -
 -
