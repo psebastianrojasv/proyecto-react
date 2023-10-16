@@ -5,7 +5,7 @@
 - npm i bootstrap bootstrap
 
 <p>
-   <img src="docs/images/bootstrap.png" alt="version instala de bootstrap"/>
+   <img src="bootstrap.png"/>
 </p>
 
 -
