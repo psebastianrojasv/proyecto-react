@@ -1,7 +1,18 @@
 # Proyecto creado para la Empresa Evol Service
 
+##Powershell:
 
-## Problemática:
+- npm i bootstrap bootstrap
+
+<p>
+   <img src="docs/images/bootstrap.png" alt="version instala de bootstrap"/>
+</p>
+
+-
+-
+
+
+### Problemática:
 
 En Evol Services se necesita crear una interfaz gráfica que permita listar, crear, actualizar y eliminar datos de medidores y de nuestros clientes. Un cliente puede tener de 1 hasta 3 medidores  asignados.
 
