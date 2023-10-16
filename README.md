@@ -5,7 +5,7 @@
 - npm i bootstrap bootstrap
 
 <p>
-   <img src="bootstrap.png"/>
+   <img src="[bootstrap.png](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/bootstrap.png)"/>
 </p>
 
 -
