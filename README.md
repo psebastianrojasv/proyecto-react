@@ -16,12 +16,13 @@
 
 ## Conexión de BBDD ~ en el archov db.js:
 
-![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/db.png)
+  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/db.png)
 
 **Se realiza la importacion de la libreria en el archivo App.js**
+
 - import pool from './db.js';
 
-
+<br>
 ## BBDD ~ Postgres:
 
 - Tabla clientes:
