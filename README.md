@@ -22,7 +22,6 @@
 
 - import pool from './db.js';
 
-<br>
 ## BBDD ~ Postgres:
 
 - Tabla clientes:
@@ -81,6 +80,11 @@ TABLESPACE pg_default;
 
 ALTER TABLE IF EXISTS public.asociacion
     OWNER to postgres;
+
+
+## Aplicacion:
+
+  ![image](https://github.com/psebastianrojasv/proyecto-react/blob/master/src/Aplicacion.png)
 
 
 ### Problemática:
